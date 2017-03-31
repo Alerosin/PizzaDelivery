@@ -1,0 +1,152 @@
+[
+	{
+		"title": "rudiger",
+		"tags": "",
+		"body": "HEllo\n\n[[Hey|Hey]]\n[[...|Yo]]\n",
+		"position": {
+			"x": -132,
+			"y": -499
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Hey",
+		"tags": "",
+		"body": "...\r\n\r\n[[You want a pizza?|youwantapizza]]\r\n[[That's an old camera|oldcamera]]\r\n",
+		"position": {
+			"x": -433,
+			"y": -277
+		},
+		"colorID": 1
+	},
+	{
+		"title": "youwantapizza",
+		"tags": "",
+		"body": "Ah pizza... How is it that a dish, morseled by the Romans in its most primitive from and then perfected in the vicolos and cucinas of Naples in 18th century - a dish draped proudly in the hues of the tricolore - can be so American?\r\n\r\n[[Preach mate]]",
+		"position": {
+			"x": -680,
+			"y": -76
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Preach mate",
+		"tags": "",
+		"body": "Pineapples\r\nBacon\r\nChicken\r\nBBQ Sauce\r\n\r\nThis is the world we made.\r\n\r\n[[Gross]]",
+		"position": {
+			"x": -924,
+			"y": 132
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Gross",
+		"tags": "",
+		"body": "Authentic, real pizza. That's what I want.\r\n\r\nAt least Jamie could make a good marinara.",
+		"position": {
+			"x": -959,
+			"y": 432
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Yo",
+		"tags": "",
+		"body": "...\n\n[[....|YO2]]",
+		"position": {
+			"x": 175,
+			"y": -221
+		},
+		"colorID": 0
+	},
+	{
+		"title": "YO2",
+		"tags": "",
+		"body": "...\n\n[[.....|YO3]]",
+		"position": {
+			"x": 346,
+			"y": 43
+		},
+		"colorID": 0
+	},
+	{
+		"title": "YO3",
+		"tags": "",
+		"body": "...\n\n[[What's the matter?|whatsthematter]]",
+		"position": {
+			"x": 491,
+			"y": 263
+		},
+		"colorID": 0
+	},
+	{
+		"title": "whatsthematter",
+		"tags": "",
+		"body": "Fear.\r\n\r\n[[What kind of fear?|whatkindoffear]]",
+		"position": {
+			"x": 618,
+			"y": 501
+		},
+		"colorID": 0
+	},
+	{
+		"title": "whatkindoffear",
+		"tags": "",
+		"body": "Are there different kinds?\r\n\r\n[[Yes|Yes]]",
+		"position": {
+			"x": 650,
+			"y": 782
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Yes",
+		"tags": "",
+		"body": "I am afraid of fear.\r\n\r\n[[You want a pizza?|youwantapizza]]",
+		"position": {
+			"x": 260,
+			"y": 729
+		},
+		"colorID": 0
+	},
+	{
+		"title": "oldcamera",
+		"tags": "",
+		"body": "Still works fine.\r\n\r\n[[What are you photographing?|whatareyouphotographing]]",
+		"position": {
+			"x": -287,
+			"y": -42
+		},
+		"colorID": 0
+	},
+	{
+		"title": "whatareyouphotographing",
+		"tags": "",
+		"body": "Signs and images, mostly.\r\n\r\n[[How do you mean?|howdoyoumean]]",
+		"position": {
+			"x": -235,
+			"y": 210
+		},
+		"colorID": 0
+	},
+	{
+		"title": "howdoyoumean",
+		"tags": "",
+		"body": "I had an assignment. Follow the road, document what I saw. I think I'm finished.\r\n\r\n[[How was the trip?|howwasthetrip]]",
+		"position": {
+			"x": -310,
+			"y": 450
+		},
+		"colorID": 0
+	},
+	{
+		"title": "howwasthetrip",
+		"tags": "",
+		"body": "Horrible\r\n\r\nSoon as you leave New York,\r\nnothing changes any more.\r\nEverything looks the same.\r\nYou can't think any more,\r\nespecially the thought\r\nthat things could ever change.\r\n\r\n[[You want a pizza?|youwantapizza]]\r\n",
+		"position": {
+			"x": -382,
+			"y": 705
+		},
+		"colorID": 0
+	}
+]
